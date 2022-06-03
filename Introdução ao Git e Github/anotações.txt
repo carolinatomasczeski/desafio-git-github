@@ -1,0 +1,9 @@
+Curso de introdução ao Git e Github
+
+O Git Bash é um terminal extendido para otimizar o uso do git.
+
+Links de acesso:
+
+Git: https://git-scm.com/
+
+Github: https://github.com/
